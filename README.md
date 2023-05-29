@@ -8,4 +8,5 @@ Aqui esta el enlace para la ejecucion del programa: https://gabjaj.github.io/Par
 <br><strong>
 Aqui esta el enlace a la Wiki de JavaScript: https://github.com/GabJaJ/Particulas.wiki.git</strong></br>
 
-
+<br><strong>
+Aqui el link a la Wiki del código HTML: https://github.com/GabJaJ/Particulas/wiki/Wiki-JavaScript</strong></br>
